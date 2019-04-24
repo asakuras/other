@@ -1,3 +1,2 @@
 ## other
----
-Of course, it is the other files.
+Of course, it is some other files.
